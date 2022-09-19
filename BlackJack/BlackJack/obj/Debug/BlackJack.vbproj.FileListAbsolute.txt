@@ -1,0 +1,51 @@
+C:\Users\Informatica\Documents\Visual Studio 2015\Projects\Visual Basic\BlackJack\BlackJack\bin\Debug\BlackJack.exe.config
+C:\Users\Informatica\Documents\Visual Studio 2015\Projects\Visual Basic\BlackJack\BlackJack\obj\Debug\Interop.WMPLib.dll
+C:\Users\Informatica\Documents\Visual Studio 2015\Projects\Visual Basic\BlackJack\BlackJack\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Informatica\Documents\Visual Studio 2015\Projects\Visual Basic\BlackJack\BlackJack\obj\Debug\BlackJack.vbproj.ResolveComReference.cache
+C:\Users\Informatica\Documents\Visual Studio 2015\Projects\Visual Basic\BlackJack\BlackJack\bin\Debug\BlackJack.exe
+C:\Users\Informatica\Documents\Visual Studio 2015\Projects\Visual Basic\BlackJack\BlackJack\bin\Debug\BlackJack.pdb
+C:\Users\Informatica\Documents\Visual Studio 2015\Projects\Visual Basic\BlackJack\BlackJack\bin\Debug\BlackJack.xml
+C:\Users\Informatica\Documents\Visual Studio 2015\Projects\Visual Basic\BlackJack\BlackJack\bin\Debug\Interop.WMPLib.dll
+C:\Users\Informatica\Documents\Visual Studio 2015\Projects\Visual Basic\BlackJack\BlackJack\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Informatica\Documents\Visual Studio 2015\Projects\Visual Basic\BlackJack\BlackJack\obj\Debug\BlackJack.vbprojResolveAssemblyReference.cache
+C:\Users\Informatica\Documents\Visual Studio 2015\Projects\Visual Basic\BlackJack\BlackJack\obj\Debug\BlackJack.Form1.resources
+C:\Users\Informatica\Documents\Visual Studio 2015\Projects\Visual Basic\BlackJack\BlackJack\obj\Debug\BlackJack.Juego.resources
+C:\Users\Informatica\Documents\Visual Studio 2015\Projects\Visual Basic\BlackJack\BlackJack\obj\Debug\BlackJack.Resources.resources
+C:\Users\Informatica\Documents\Visual Studio 2015\Projects\Visual Basic\BlackJack\BlackJack\obj\Debug\BlackJack.vbproj.GenerateResource.Cache
+C:\Users\Informatica\Documents\Visual Studio 2015\Projects\Visual Basic\BlackJack\BlackJack\obj\Debug\BlackJack.exe
+C:\Users\Informatica\Documents\Visual Studio 2015\Projects\Visual Basic\BlackJack\BlackJack\obj\Debug\BlackJack.xml
+C:\Users\Informatica\Documents\Visual Studio 2015\Projects\Visual Basic\BlackJack\BlackJack\obj\Debug\BlackJack.pdb
+C:\Users\Hugo_2\Documents\Visual Studio 2015\Projects\Kinal\BlackJack\BlackJack\bin\Debug\BlackJack.exe.config
+C:\Users\Hugo_2\Documents\Visual Studio 2015\Projects\Kinal\BlackJack\BlackJack\obj\Debug\Interop.WMPLib.dll
+C:\Users\Hugo_2\Documents\Visual Studio 2015\Projects\Kinal\BlackJack\BlackJack\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Hugo_2\Documents\Visual Studio 2015\Projects\Kinal\BlackJack\BlackJack\obj\Debug\BlackJack.vbproj.ResolveComReference.cache
+C:\Users\Hugo_2\Documents\Visual Studio 2015\Projects\Kinal\BlackJack\BlackJack\obj\Debug\BlackJack.exe
+C:\Users\Hugo_2\Documents\Visual Studio 2015\Projects\Kinal\BlackJack\BlackJack\obj\Debug\BlackJack.xml
+C:\Users\Hugo_2\Documents\Visual Studio 2015\Projects\Kinal\BlackJack\BlackJack\obj\Debug\BlackJack.pdb
+C:\Users\Hugo_2\Documents\Visual Studio 2015\Projects\Kinal\BlackJack\BlackJack\bin\Debug\BlackJack.exe
+C:\Users\Hugo_2\Documents\Visual Studio 2015\Projects\Kinal\BlackJack\BlackJack\bin\Debug\BlackJack.pdb
+C:\Users\Hugo_2\Documents\Visual Studio 2015\Projects\Kinal\BlackJack\BlackJack\bin\Debug\BlackJack.xml
+C:\Users\Hugo_2\Documents\Visual Studio 2015\Projects\Kinal\BlackJack\BlackJack\bin\Debug\Interop.WMPLib.dll
+C:\Users\Hugo_2\Documents\Visual Studio 2015\Projects\Kinal\BlackJack\BlackJack\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Hugo_2\Documents\Visual Studio 2015\Projects\Kinal\BlackJack\BlackJack\obj\Debug\BlackJack.vbprojResolveAssemblyReference.cache
+C:\Users\Hugo_2\Documents\Visual Studio 2015\Projects\Kinal\BlackJack\BlackJack\obj\Debug\BlackJack.Form1.resources
+C:\Users\Hugo_2\Documents\Visual Studio 2015\Projects\Kinal\BlackJack\BlackJack\obj\Debug\BlackJack.Juego.resources
+C:\Users\Hugo_2\Documents\Visual Studio 2015\Projects\Kinal\BlackJack\BlackJack\obj\Debug\BlackJack.Resources.resources
+C:\Users\Hugo_2\Documents\Visual Studio 2015\Projects\Kinal\BlackJack\BlackJack\obj\Debug\BlackJack.vbproj.GenerateResource.Cache
+C:\Users\Familia 2016\Documents\Visual Studio 2013\Projects\VisualBasic\Proyectos - IN5AM\Hugo Alvarado - 2013069\BlackJack\BlackJack\bin\Debug\BlackJack.exe.config
+C:\Users\Familia 2016\Documents\Visual Studio 2013\Projects\VisualBasic\Proyectos - IN5AM\Hugo Alvarado - 2013069\BlackJack\BlackJack\obj\Debug\Interop.WMPLib.dll
+C:\Users\Familia 2016\Documents\Visual Studio 2013\Projects\VisualBasic\Proyectos - IN5AM\Hugo Alvarado - 2013069\BlackJack\BlackJack\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Familia 2016\Documents\Visual Studio 2013\Projects\VisualBasic\Proyectos - IN5AM\Hugo Alvarado - 2013069\BlackJack\BlackJack\obj\Debug\BlackJack.vbproj.ResolveComReference.cache
+C:\Users\Familia 2016\Documents\Visual Studio 2013\Projects\VisualBasic\Proyectos - IN5AM\Hugo Alvarado - 2013069\BlackJack\BlackJack\obj\Debug\BlackJack.exe
+C:\Users\Familia 2016\Documents\Visual Studio 2013\Projects\VisualBasic\Proyectos - IN5AM\Hugo Alvarado - 2013069\BlackJack\BlackJack\obj\Debug\BlackJack.xml
+C:\Users\Familia 2016\Documents\Visual Studio 2013\Projects\VisualBasic\Proyectos - IN5AM\Hugo Alvarado - 2013069\BlackJack\BlackJack\obj\Debug\BlackJack.pdb
+C:\Users\Familia 2016\Documents\Visual Studio 2013\Projects\VisualBasic\Proyectos - IN5AM\Hugo Alvarado - 2013069\BlackJack\BlackJack\bin\Debug\BlackJack.exe
+C:\Users\Familia 2016\Documents\Visual Studio 2013\Projects\VisualBasic\Proyectos - IN5AM\Hugo Alvarado - 2013069\BlackJack\BlackJack\bin\Debug\BlackJack.pdb
+C:\Users\Familia 2016\Documents\Visual Studio 2013\Projects\VisualBasic\Proyectos - IN5AM\Hugo Alvarado - 2013069\BlackJack\BlackJack\bin\Debug\BlackJack.xml
+C:\Users\Familia 2016\Documents\Visual Studio 2013\Projects\VisualBasic\Proyectos - IN5AM\Hugo Alvarado - 2013069\BlackJack\BlackJack\bin\Debug\Interop.WMPLib.dll
+C:\Users\Familia 2016\Documents\Visual Studio 2013\Projects\VisualBasic\Proyectos - IN5AM\Hugo Alvarado - 2013069\BlackJack\BlackJack\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Familia 2016\Documents\Visual Studio 2013\Projects\VisualBasic\Proyectos - IN5AM\Hugo Alvarado - 2013069\BlackJack\BlackJack\obj\Debug\BlackJack.vbprojResolveAssemblyReference.cache
+C:\Users\Familia 2016\Documents\Visual Studio 2013\Projects\VisualBasic\Proyectos - IN5AM\Hugo Alvarado - 2013069\BlackJack\BlackJack\obj\Debug\BlackJack.Form1.resources
+C:\Users\Familia 2016\Documents\Visual Studio 2013\Projects\VisualBasic\Proyectos - IN5AM\Hugo Alvarado - 2013069\BlackJack\BlackJack\obj\Debug\BlackJack.Juego.resources
+C:\Users\Familia 2016\Documents\Visual Studio 2013\Projects\VisualBasic\Proyectos - IN5AM\Hugo Alvarado - 2013069\BlackJack\BlackJack\obj\Debug\BlackJack.Resources.resources
+C:\Users\Familia 2016\Documents\Visual Studio 2013\Projects\VisualBasic\Proyectos - IN5AM\Hugo Alvarado - 2013069\BlackJack\BlackJack\obj\Debug\BlackJack.vbproj.GenerateResource.Cache

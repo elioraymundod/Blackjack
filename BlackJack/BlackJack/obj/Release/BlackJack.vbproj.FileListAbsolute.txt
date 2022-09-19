@@ -1,0 +1,17 @@
+C:\Users\Hugo_2\Documents\Visual Studio 2015\Projects\Kinal\BlackJack\BlackJack\bin\Release\BlackJack.exe.config
+C:\Users\Hugo_2\Documents\Visual Studio 2015\Projects\Kinal\BlackJack\BlackJack\obj\Release\Interop.WMPLib.dll
+C:\Users\Hugo_2\Documents\Visual Studio 2015\Projects\Kinal\BlackJack\BlackJack\obj\Release\AxInterop.WMPLib.dll
+C:\Users\Hugo_2\Documents\Visual Studio 2015\Projects\Kinal\BlackJack\BlackJack\obj\Release\BlackJack.vbproj.ResolveComReference.cache
+C:\Users\Hugo_2\Documents\Visual Studio 2015\Projects\Kinal\BlackJack\BlackJack\bin\Release\BlackJack.exe
+C:\Users\Hugo_2\Documents\Visual Studio 2015\Projects\Kinal\BlackJack\BlackJack\bin\Release\BlackJack.pdb
+C:\Users\Hugo_2\Documents\Visual Studio 2015\Projects\Kinal\BlackJack\BlackJack\bin\Release\BlackJack.xml
+C:\Users\Hugo_2\Documents\Visual Studio 2015\Projects\Kinal\BlackJack\BlackJack\bin\Release\Interop.WMPLib.dll
+C:\Users\Hugo_2\Documents\Visual Studio 2015\Projects\Kinal\BlackJack\BlackJack\bin\Release\AxInterop.WMPLib.dll
+C:\Users\Hugo_2\Documents\Visual Studio 2015\Projects\Kinal\BlackJack\BlackJack\obj\Release\BlackJack.Form1.resources
+C:\Users\Hugo_2\Documents\Visual Studio 2015\Projects\Kinal\BlackJack\BlackJack\obj\Release\BlackJack.Juego.resources
+C:\Users\Hugo_2\Documents\Visual Studio 2015\Projects\Kinal\BlackJack\BlackJack\obj\Release\BlackJack.Resources.resources
+C:\Users\Hugo_2\Documents\Visual Studio 2015\Projects\Kinal\BlackJack\BlackJack\obj\Release\BlackJack.vbproj.GenerateResource.Cache
+C:\Users\Hugo_2\Documents\Visual Studio 2015\Projects\Kinal\BlackJack\BlackJack\obj\Release\BlackJack.exe
+C:\Users\Hugo_2\Documents\Visual Studio 2015\Projects\Kinal\BlackJack\BlackJack\obj\Release\BlackJack.xml
+C:\Users\Hugo_2\Documents\Visual Studio 2015\Projects\Kinal\BlackJack\BlackJack\obj\Release\BlackJack.pdb
+C:\Users\Hugo_2\Documents\Visual Studio 2015\Projects\Kinal\BlackJack\BlackJack\obj\Release\BlackJack.vbprojResolveAssemblyReference.cache
